@@ -1,0 +1,3 @@
+rootProject.name = "Swenson"
+include ':app'
+include ':app:converterlib'
